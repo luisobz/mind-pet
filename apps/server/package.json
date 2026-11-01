@@ -18,7 +18,7 @@
     "@mind-pet/core": "workspace:*",
     "@mind-pet/perception": "workspace:*",
     "fastify": "^5.2.0",
-    "zod": "^3.24.1"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@mind-pet/eslint-config": "workspace:*",
